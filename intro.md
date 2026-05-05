@@ -1,3 +1,87 @@
+## History
+
+### 🕰️ 1970s — UNIX Era
+
+* **UNIX** was developed at Bell Labs.
+* It was:
+
+  * Multi-user
+  * Multi-tasking
+* But ❌ **not open source** (owned by companies like AT&T).
+
+---
+
+### 💻 1980s — DOS Era
+
+* **MS-DOS** was created by Microsoft.
+* It was:
+
+  * Single-user
+  * Command-line based
+* No multitasking, very limited compared to UNIX.
+
+---
+
+### 🧠 GNU Project (1983)
+
+* Started by **Richard Stallman**.
+* Goal: Build a **free (open-source) UNIX-like system**.
+* GNU provided:
+
+  * Tools (compiler, editor, shell)
+  * ❗ But **no kernel**
+
+👉 Important correction:
+
+* It’s **NOT “DOS + UNIX = GNU”**
+* GNU = **Free alternative to UNIX**
+
+---
+
+### 🧪 MINIX (Late 1980s)
+
+* Created by **Andrew S. Tanenbaum**
+* Used for teaching OS concepts
+* Limitations:
+
+  * Not fully open
+  * Had restrictions and design limits
+
+---
+
+### 🚀 1991 — Birth of Linux
+
+* Created by **Linus Torvalds**
+* Inspired by MINIX but improved it
+
+👉 Key points:
+
+* Built a **kernel** (core part of OS)
+* Released as **open source**
+* Initially small, not complete OS
+
+---
+
+### 🧩 Final Combination
+
+* **GNU tools + Linux kernel = Linux OS**
+
+👉 That’s why sometimes it's called:
+
+* **GNU/Linux**
+
+---
+
+### ⚡ Final Understanding
+
+* UNIX → Original powerful OS (but closed)
+* GNU → Free tools (no kernel)
+* Linux → Kernel (open source)
+
+👉 Together = **Complete Open Source OS**
+
+---
+
 ## What is Linux?
 Linux is a free, open-source operating system that serves as an alternative to Windows and macOS. To understand what this means, let's break it down:
 
